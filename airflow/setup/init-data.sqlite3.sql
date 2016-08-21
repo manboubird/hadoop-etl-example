@@ -1,0 +1,1 @@
+INSERT INTO connection (conn_id, host, schema, login, password, port, extra, is_encrypted, is_extra_encrypted) VALUES ('beeline_sbx', 'sandbox.hortonworks.com', 'default', 'guest', 'guest-password', 10000, '{"use_beeline": true, "auth": ""}', 0, 0); 
